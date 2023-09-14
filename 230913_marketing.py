@@ -110,7 +110,7 @@ def read_static_elements():
     with open('prompt_text/role.txt') as file:
         role = file.read()    
     
-    with open('prompt_text/product.txt') as file:
+    with open('prompt_text/product_example.txt') as file:
         product = file.read()    
     
     with open('prompt_text/task.txt') as file:
